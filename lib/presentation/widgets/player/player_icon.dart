@@ -1,6 +1,10 @@
 
+
+
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/domain/player/player_model.dart';
+
+import '../../../domain/player/player_model.dart';
+
 
 class PlayerIcon extends StatelessWidget {
   final PlayerModel player;

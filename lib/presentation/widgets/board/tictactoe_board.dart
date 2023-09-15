@@ -1,7 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/presentation/controller/board/game_controller.dart';
-import 'package:flutter_application_4/presentation/widgets/player/player_icon.dart';
+
+import '../../controller/board/game_controller.dart';
+import '../player/player_icon.dart';
+
 
 class TicTacToe extends StatefulWidget {
   @override

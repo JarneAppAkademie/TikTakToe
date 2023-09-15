@@ -1,5 +1,7 @@
 
-import 'package:flutter_application_4/domain/player/player_model.dart';
+
+
+import '../../../domain/player/player_model.dart';
 
 class GameController {
   GameController._();
